@@ -1,4 +1,4 @@
 unite-us:
   api:
     base-url:  http://localhost:8080/api/
-    api-key: a0b4d684-b4a4-468b-9ebb-c05fb2eeda0fDhir
+    api-key: a0b4d684-b4a4-468b-9ebb-c05fb2eeda0f
